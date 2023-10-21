@@ -1,0 +1,33 @@
+/* 主题变量样式修改 */
+:root {
+    /* 字体 */
+    --vp-font-family-base: 'sarasa-ui-sc-regular';
+    --vp-font-family-mono: 'sarasa-ui-sc-regular';
+   /* 标题 */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+
+    /* 代码块颜色配置 */
+    --vp-code-block-bg: #161618; /* 代码块的背景颜色 */
+    --vp-code-block-divider-color: #8899a1; /* 代码块中分隔线的颜色 */
+    --vp-code-line-highlight-color: #00000080; /* 代码块中高亮行的颜色 */
+    --vp-code-line-number-color: #8899a1; /* 代码块中行号的颜色 */
+}
+
+/* 暗黑主题颜色 */
+.dark {
+    .index-page {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)), url('/back.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+      }
+}
+
+/* 首页背景图片 */
+.index-page {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgb(255, 255, 255)), url('/back.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }

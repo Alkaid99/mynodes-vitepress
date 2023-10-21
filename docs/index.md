@@ -1,6 +1,8 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+# 首页样式
+pageClass: index-page
 
 hero:
   name: "My Awesome Project"
