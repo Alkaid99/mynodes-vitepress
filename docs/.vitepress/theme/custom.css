@@ -22,6 +22,10 @@
         background-position: center center;
         background-size: cover;
       }
+    /* 返回顶部插件背景颜色 */
+    .go-to-top[data-v-09295527] {
+        background-color: #1b1b1f;
+    }
 }
 
 /* 首页背景图片 */
@@ -30,7 +34,7 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-  }
+}
 
 /* 返回顶部按钮 */
 .go-to-top .icon-top[data-v-09295527] {
