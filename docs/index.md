@@ -5,23 +5,14 @@ layout: home
 pageClass: index-page
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "🔖知识仓库"
+  text: "学习笔记整理"
+  tagline: "内容皆来源于互联网、AI、复制、粘贴与偷袭。 仅适用于个人学习，且部分内容可能存在偏差、知识不全面，如有异议请自行查阅修改完善。"
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: ✨开始学习
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Vitepress
+      link: https://vitepress.dev/
 ---
-
