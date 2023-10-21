@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: ✨开始学习
-      link: /markdown-examples
+      link: /dagang.md
     - theme: alt
       text: Vitepress
       link: https://vitepress.dev/
