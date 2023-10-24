@@ -1,8 +1,5 @@
 /* 主题变量样式修改 */
 :root {
-    /* 字体 */
-    --vp-font-family-base: 'sarasa-ui-sc-regular';
-    --vp-font-family-mono: 'sarasa-ui-sc-regular';
    /* 标题 */
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
